@@ -16,8 +16,8 @@ export default function LandingSection() {
     <LandingWrapper>
       <LandingContainer>
         <LandingContent>
-          <Title>Proudly Launched On Arbitrum</Title>
-          <LandingHeader>$BBPP airdrop is coming soon!</LandingHeader>
+          <Title>Proudly Launched On Solana</Title>
+          <LandingHeader>$Test airdrop is coming soon!</LandingHeader>
           <LandingText>
             A total of 1,000,000,000 with o%tax BBPP tokens will be
             airdroppedAll users must register the form to participate in the
